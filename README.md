@@ -25,6 +25,8 @@ This task focused on identifying missing values, understanding the relationships
 ## 📊 Charts & Insights
 
 ### 📌 Chart 1 – Survival by Gender
+![Survival chart](./SurvivalByGender.png)
+
 - **Variables**: `Sex` vs `Survived`
 - **Insight**: Females had a significantly higher survival rate  
   🟢 *Pattern*: “Women and children first” protocol
@@ -32,6 +34,8 @@ This task focused on identifying missing values, understanding the relationships
 ---
 
 ### 📌 Chart 2 – Survival by Passenger Class
+![Survival chart](./SurvivalByClass.png)
+
 - **Variables**: `Pclass` vs `Survived`
 - **Insight**: 1st Class passengers had the highest survival rate  
   🟢 *Trend*: Wealthier passengers had better access to rescue
@@ -39,6 +43,8 @@ This task focused on identifying missing values, understanding the relationships
 ---
 
 ### 📌 Chart 3 – Survival by Embarkation Port
+![Survival chart](./SurvivalByEmbarked.png)
+
 - **Variables**: `Embarked` vs `Survived`
 - **Insight**: Passengers from Cherbourg showed better survival outcomes  
   🟢 *Possibility*: More first-class passengers boarded at Cherbourg
